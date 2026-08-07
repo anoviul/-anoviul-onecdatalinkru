@@ -15,11 +15,6 @@
 [**Начать бесплатно**](https://app.onecdatalink.ru/login) ·
 [**Видео с настройкой на RuTube**](https://rutube.ru/channel/80249585/)
 
-[<img src="infostart-logo.svg" alt="Infostart" height="24">](https://infostart.ru/public/2754157/)
-
-Статья о сервисе на Инфостарте:
-[ИИ + 1С без лишних хлопот: решения для тех, кому нужно просто спросить базу текстом](https://infostart.ru/public/2754157/)
-
 </div>
 
 ---
